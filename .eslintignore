@@ -1,0 +1,18 @@
+# .eslint ignore
+
+build/*.js
+config/*.js
+
+static/*
+static/*.js
+
+.nuxt/*
+.nuxt/*.js
+.nuxt/*.vue
+
+utils/underscore-simple.js
+
+plugins/ga.js
+plugins/webrtc.js
+plugins/copy-right.js
+plugins/baidu-seo-push.js

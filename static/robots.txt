@@ -1,0 +1,5 @@
+# robots.txt
+User-agent: *
+Disallow: /bin/
+# Sitemap: https://ibole.me/sitemap.xml
+# Sitemap: https://ibole.me/sitemap
